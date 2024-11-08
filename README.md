@@ -1,2 +1,5 @@
-developのreadmeですね。
+developのreadmeです。
 ここは開発過程の物を置く予定です。
+
+基本的にfeature_個人で作業をする→developにプルリクエスト→完成版をmainにマージ
+の流れで進めていきたいと考えています
